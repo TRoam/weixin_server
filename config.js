@@ -1,7 +1,7 @@
 var config = {
-    token: 'techstack123456',
-    appid: 'wxd7ee10f6b3996719',
-    encodingAESKey: 'SbLVvAzc3uS4oW1ZipsARMTdlPgAYOInHDf25FK15SR'
+    token: 'wechat123456',
+    appid: 'wx4bc586b9587fabba',
+    encodingAESKey: 'qKZrS7ClCedpfB8ovtIXaOUlnUyd4JhDH44v3STxPyq'
 };
 
 module.exports = config;
